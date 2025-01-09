@@ -7,5 +7,6 @@ public class TestView {
 	// kim 팀원 작성한 코드 
 	public signup() {}
 	
+	// 여기가 최종 취합
 	
 }
